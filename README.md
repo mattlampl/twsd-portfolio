@@ -10,4 +10,6 @@ I love looking at charts. I believe this is the most effective way to communicat
 
 # Portfolio
 ### Data Visualizations
+[Assignment 2](/dataviz2.md)
+
 ### Final Project
