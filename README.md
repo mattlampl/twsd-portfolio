@@ -11,6 +11,6 @@ I love looking at charts. I believe this is the most effective way to communicat
 # Portfolio
 ### [Assignment 2: Visualizing Government Debt](/dataviz2.md)
 
-### [Tableau Examples](/dataviz2.md)
+### [Tableau Examples](/tableau-examples.md)
 
 ### Final Project
