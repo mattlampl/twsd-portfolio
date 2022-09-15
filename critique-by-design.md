@@ -35,6 +35,8 @@ What immediately stands out with this visualization is the highlighted bar at th
 ### Primary Audience
 The primary audience for this visualization is politically engaged people, as well as supporters of President Biden. Due to the fact that it was originally posted to the White House’s official Twitter account, it was effective at engaging the audience. Unfortunately for the President’s social media team, the Twitter followers immediately caught on to their ruse and forced them to tweet an updated version of the chart with a fixed y-axis. Aside from that, I do think that the visualization does a good job at getting across the necessary information. It is easy to decipher what the graphic is depicting at a quick glance and the message comes across quickly.
 
-### Final Thoughts
+### Final Thoughts on this Visualization
 This visualization is not egregiously bad. There are, however, some things that could be changed to enhance the message. Firstly, I would update the y-axis to make them uniform as to not try to dupe the audience. Secondly, I would update the coloring of the graphic. Namely, I would get rid of the background, then grey out the bars, and color the rightmost bar with an eye catching color.
 
+### Thoughts About the Data Visualization Effectiveness Profile vs. The Good Charts Method
+The Data Visualization Effectiveness Profile is an interesting tool for critique. It forces the critic to really study the graphic in each of its seven categories. The Good Charts method is great for getting that initial reaction to the visualization. It focuses more on what the reader initially sees and attempts to refine that aspect of the chart. I prefer the Good Charts method for that reason. Given that most people only glance at charts, it is extremely important to hone in on what you want the audience to see first.
