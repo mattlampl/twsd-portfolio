@@ -40,3 +40,5 @@ This visualization is not egregiously bad. There are, however, some things that 
 
 ### Thoughts About the Data Visualization Effectiveness Profile vs. The Good Charts Method
 The Data Visualization Effectiveness Profile is an interesting tool for critique. It forces the critic to really study the graphic in each of its seven categories. The Good Charts method is great for getting that initial reaction to the visualization. It focuses more on what the reader initially sees and attempts to refine that aspect of the chart. I prefer the Good Charts method for that reason. Given that most people only glance at charts, it is extremely important to hone in on what you want the audience to see first.
+
+# Step 3: Sketching a Solution
