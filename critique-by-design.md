@@ -11,7 +11,8 @@ I found this tweet from the official White House page. At first glance, it looks
 #### Usefulness - 7
 The chart is useful for its intended audience. It aims to tell a specific story: *President Biden was able to raise the GDP 5.7% in his first year in office*. The chart does a good job of displaying that information.
 
-#### Completeness - 6
+#### Completeness - 6![image](https://user-images.githubusercontent.com/13319538/190522081-ab11f195-6aa7-4340-aad0-45997a532db5.png)
+
 The graphic has everything necessary to make it understandable. I knocked off a few points in this category because of the manipulation of the y-axis. This makes the chart less understandable due to the fact that not everyone would have caught that if it were not pointed out explicitly.
 
 #### Perceptibility - 8
@@ -42,3 +43,9 @@ This visualization is not egregiously bad. There are, however, some things that 
 The Data Visualization Effectiveness Profile is an interesting tool for critique. It forces the critic to really study the graphic in each of its seven categories. The Good Charts method is great for getting that initial reaction to the visualization. It focuses more on what the reader initially sees and attempts to refine that aspect of the chart. I prefer the Good Charts method for that reason. Given that most people only glance at charts, it is extremely important to hone in on what you want the audience to see first.
 
 # Step 3: Sketching a Solution
+#### Sketch 1
+![GDP_Sketch1](https://user-images.githubusercontent.com/13319538/190522077-84c59eb1-5f53-41fc-9993-01a558f17744.png)
+#### Sketch 2
+![GDP_Sketch2](https://user-images.githubusercontent.com/13319538/190522104-633b4547-b05b-41d8-9b74-75d1a7566c5a.png)
+#### Sketch 3
+![GDP_Sketch3](https://user-images.githubusercontent.com/13319538/190522113-d7eca78e-ba82-4313-bc06-30c0eca5c17d.png)
