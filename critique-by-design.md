@@ -49,3 +49,12 @@ The Data Visualization Effectiveness Profile is an interesting tool for critique
 ![GDP_Sketch2](https://user-images.githubusercontent.com/13319538/190522104-633b4547-b05b-41d8-9b74-75d1a7566c5a.png)
 #### Sketch 3
 ![GDP_Sketch3](https://user-images.githubusercontent.com/13319538/190522113-d7eca78e-ba82-4313-bc06-30c0eca5c17d.png)
+
+# Step 4: Testing the Solution
+
+# Step 5: Building the Solution
+## Visualization 1
+![Sheet 1](https://user-images.githubusercontent.com/13319538/190532229-6f8402e6-2e62-4175-a7ad-55654b6cacf5.png)
+
+## Visualization 2
+![Sheet 2](https://user-images.githubusercontent.com/13319538/190532247-9a0a2988-12bd-4eaa-a684-9b94ba3d3c34.png)
