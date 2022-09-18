@@ -52,6 +52,21 @@ The Data Visualization Effectiveness Profile is an interesting tool for critique
 
 # Step 4: Testing the Solution
 
+To test the solution I came up with, I asked two people their thoughts using the questions below. I tested all three sketches and asked them at the end which one was the clearest.
+
+### *Adult, Mid 20s*
+
+| Question | Answer |
+| --- | --- |
+| What do you think this is? | These are graphs of the GDP between Trump and Biden. |
+| What do you think it is telling you? | That the GDP has grown more under Biden than it did under Trump. |
+| Is there anything you find surprising or confusing? | I am confused why the charts only date back to the early 2000s. |
+| Who do you think is the intended audience for this? | Politically involved people and economists |
+| Is there anything you would change or do differently? | Make the dates go back further so people can see the whole trend over time. |
+| Which of these graphs do you find to be the most clear? | I think the third one is a little busy but displays the most information. |
+
+### *Adult, Late 60s*
+
 # Step 5: Building the Solution
 ## Visualization 1
 ![Sheet 1](https://user-images.githubusercontent.com/13319538/190903121-8e5cf35d-966b-42df-a756-bcffc024f509.png)
