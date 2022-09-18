@@ -67,6 +67,15 @@ To test the solution I came up with, I asked two people their thoughts using the
 
 ### *Adult, Late 60s*
 
+| Question | Answer |
+| --- | --- |
+| What do you think this is? | Graphs of the GDP by year. The first one is percent change, the second one is total GDP, and the third one looks like a combination. |
+| What do you think it is telling you? | How the GDP change year over year |
+| Is there anything you find surprising or confusing? | I don’t understand why there are four red bars and only one blue. |
+| Who do you think is the intended audience for this? | Econ professors? |
+| Is there anything you would change or do differently? | I think these get the point across, I do wish there were some explanation for the colors though. |
+| Which of these graphs do you find to be the most clear? | The first one. I can clearly see that the GDP grew in Biden’s first year. |
+
 # Step 5: Building the Solution
 ## Visualization 1
 ![Sheet 1](https://user-images.githubusercontent.com/13319538/190903121-8e5cf35d-966b-42df-a756-bcffc024f509.png)
