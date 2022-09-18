@@ -11,7 +11,7 @@ I found this tweet from the official White House page. At first glance, it looks
 #### Usefulness - 7
 The chart is useful for its intended audience. It aims to tell a specific story: *President Biden was able to raise the GDP 5.7% in his first year in office*. The chart does a good job of displaying that information.
 
-#### Completeness - 6![image](https://user-images.githubusercontent.com/13319538/190522081-ab11f195-6aa7-4340-aad0-45997a532db5.png)
+#### Completeness - 6
 
 The graphic has everything necessary to make it understandable. I knocked off a few points in this category because of the manipulation of the y-axis. This makes the chart less understandable due to the fact that not everyone would have caught that if it were not pointed out explicitly.
 
@@ -54,7 +54,7 @@ The Data Visualization Effectiveness Profile is an interesting tool for critique
 
 # Step 5: Building the Solution
 ## Visualization 1
-![Sheet 1](https://user-images.githubusercontent.com/13319538/190532229-6f8402e6-2e62-4175-a7ad-55654b6cacf5.png)
+![Sheet 1](https://user-images.githubusercontent.com/13319538/190903121-8e5cf35d-966b-42df-a756-bcffc024f509.png)
 
 ## Visualization 2
-![Sheet 2](https://user-images.githubusercontent.com/13319538/190532247-9a0a2988-12bd-4eaa-a684-9b94ba3d3c34.png)
+![Sheet 2](https://user-images.githubusercontent.com/13319538/190903129-afc9eefb-56bd-4208-adc5-ade53047e775.png)
