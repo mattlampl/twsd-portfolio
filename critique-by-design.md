@@ -6,7 +6,7 @@
 I found this tweet from the official White House page. At first glance, it looks like a standard bar chart. Upon closer inspection however, there has been some manipulation on the y-axis to make the final bar look taller than it really should be. There was some discourse in the comments about this, eventually leading to a revised tweet with a fixed y-axis.
 
 # Step 2: Critique the Visualization
-<div class="flourish-embed flourish-chart" data-src="visualisation/11192497"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-radar" data-src="visualisation/11217975"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Engagement - 7
 The fact that there was manipulation in this chart actually led to further engagement than normal with this type of graphic. There was rich discussion and heated debates surrounding this graph when it was published.
