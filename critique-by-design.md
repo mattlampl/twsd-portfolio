@@ -77,8 +77,15 @@ To test the solution I came up with, I asked two people their thoughts using the
 | Which of these graphs do you find to be the most clear? | The first one. I can clearly see that the GDP grew in Biden’s first year. |
 
 # Step 5: Building the Solution
-## Visualization 1
+
+## The Time-Spanning Combo Chart
+Taking the feedback into consideration I constructed two final visualizations below. The first interviewee said that they thought the third one was the most information dense but also wished that the time spanned back further. For this redesign, I used all the available data, which spanned back to 1930. This chart tells a completely different story. Where the original tweet focused on Biden's accomplishments, this chart gives a much more holisitic view and we see that the GDP has been trending upwards for a long time - far before either Trump or Biden was in office.
+
+![Sheet 2](https://user-images.githubusercontent.com/13319538/190903129-afc9eefb-56bd-4208-adc5-ade53047e775.png)
+
+## The Redone Percent Change Bar Chart
+In order to stick to the original message of the visualization, I reconstructed the original visualization from the tweet. Firstly, and most importantly, I made sure to fix the y-axis so there is no visual manipulation of the bars. I then took the second interviewee's feedback into consideration. I only colored the last two bars as to not confuse the viewer. I then added a title with elements to match the colors of the bars. This acts as a sort of legend, without having to add a legend to the chart. My goal with the title was to send the message clearly and consisely. I also am aware that most viewers' eyes are drawn to colored elements first, so I added labels to the two colored bars. The goal here was to draw the viewer's eye to the colored bars, and have them immediately figure out that one was *bad* (red) and one was *good* (blue). The overall aim with this chart was to stick to the original messaging of the tweet. In my opinion, this chart does a better job at that than the combo chart above.
+
 ![Sheet 1](https://user-images.githubusercontent.com/13319538/190903121-8e5cf35d-966b-42df-a756-bcffc024f509.png)
 
-## Visualization 2
-![Sheet 2](https://user-images.githubusercontent.com/13319538/190903129-afc9eefb-56bd-4208-adc5-ade53047e775.png)
+
