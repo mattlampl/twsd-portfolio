@@ -78,6 +78,8 @@ To test the solution I came up with, I asked two people their thoughts using the
 
 # Step 5: Building the Solution
 
+I decided to use Tableau to build the two reconstructed charts. I wanted fine tune control of each element, and found that tableau was the best resource for me to do this. Additionally, since the original visualization was sent as a tweet, there was no interactivity to it. I kept this in mind during the building phase. I wanted to remain true to the original static image so all the necessary information that the audience should focus on should be readily available without having to mouse over anything.
+
 ## The Time-Spanning Combo Chart
 Taking the feedback into consideration I constructed two final visualizations below. The first interviewee said that they thought the third one was the most information dense but also wished that the time spanned back further. For this redesign, I used all the available data, which spanned back to 1930. This chart tells a completely different story. Where the original tweet focused on Biden's accomplishments, this chart gives a much more holisitic view and we see that the GDP has been trending upwards for a long time - far before either Trump or Biden was in office.
 
