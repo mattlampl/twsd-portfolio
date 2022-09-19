@@ -8,27 +8,27 @@ I found this tweet from the official White House page. At first glance, it looks
 # Step 2: Critique the Visualization
 <div class="flourish-embed flourish-radar" data-src="visualisation/11217975"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-#### Engagement - 7
-The fact that there was manipulation in this chart actually led to further engagement than normal with this type of graphic. There was rich discussion and heated debates surrounding this graph when it was published.
-
-#### Aesthetics - 4
-In my opinion, the background adds some visual clutter. I also am not fond of the unfamiliar typeface that was chosen for this chart. Additionally, I feel that the colors of the bars should be flipped (grays for the supporting bars, yellow for the last bar).
-
-#### Intuitiveness - 8
-This graph uses a common visual language, allowing for easy interpretation. I find it to be quite intuitive and understandable.
-
-#### Truthfulness - 3
-The y-axis manipulation of in the chart presents a huge red flag as to the trustworthyness of the data. Even if the data is accurate, the visual manipulation presents it in such a way that is untruthful.
-
-#### Perceptibility - 8
-This visualization does a great job at conveying the necessary information with minimal effort to the reader. The highlight quickly draws the attention to the final bar and the callout lets the reader know what they should be taking away.
+#### Usefulness - 7
+The chart is useful for its intended audience. It aims to tell a specific story: *President Biden was able to raise the GDP 5.7% in his first year in office*. The chart does a good job of displaying that information.
 
 #### Completeness - 6
 
 The graphic has everything necessary to make it understandable. I knocked off a few points in this category because of the manipulation of the y-axis. This makes the chart less understandable due to the fact that not everyone would have caught that if it were not pointed out explicitly.
 
-#### Usefulness - 7
-The chart is useful for its intended audience. It aims to tell a specific story: *President Biden was able to raise the GDP 5.7% in his first year in office*. The chart does a good job of displaying that information.
+#### Perceptibility - 8
+This visualization does a great job at conveying the necessary information with minimal effort to the reader. The highlight quickly draws the attention to the final bar and the callout lets the reader know what they should be taking away.
+
+#### Truthfulness - 3
+The y-axis manipulation of in the chart presents a huge red flag as to the trustworthyness of the data. Even if the data is accurate, the visual manipulation presents it in such a way that is untruthful.
+
+#### Intuitiveness - 8
+This graph uses a common visual language, allowing for easy interpretation. I find it to be quite intuitive and understandable.
+
+#### Aesthetics - 4
+In my opinion, the background adds some visual clutter. I also am not fond of the unfamiliar typeface that was chosen for this chart. Additionally, I feel that the colors of the bars should be flipped (grays for the supporting bars, yellow for the last bar).
+
+#### Engagement - 7
+The fact that there was manipulation in this chart actually led to further engagement than normal with this type of graphic. There was rich discussion and heated debates surrounding this graph when it was published.
 
 ### Overall Observations
 What immediately stands out with this visualization is the highlighted bar at the far right of the graphic. It is the change in GDP for 2021. On first look, it looks like since Biden took office, there has been a drastic positive jump in GDP. Upon closer examination, however, the y-axis has been manipulated to include an extra tick mark (5.0, 5.5, 6.0). Even though this may be *technically* correct, it is a less-than-honest way to portray this data. Aesthetically, there could be some changes to this graph. In my opinion the background graphic is distracting and adds visual clutter. Also the color scheme of the white bar being the highlighted bar has almost the opposite effect. It is harder to see than the rest of the yellow bars.
@@ -43,12 +43,20 @@ This visualization is not egregiously bad. There are, however, some things that 
 The Data Visualization Effectiveness Profile is an interesting tool for critique. It forces the critic to really study the graphic in each of its seven categories. The Good Charts method is great for getting that initial reaction to the visualization. It focuses more on what the reader initially sees and attempts to refine that aspect of the chart. I prefer the Good Charts method for that reason. Given that most people only glance at charts, it is extremely important to hone in on what you want the audience to see first.
 
 # Step 3: Sketching a Solution
-#### Sketch 1
+### Sketch 1
 ![GDP_Sketch1](https://user-images.githubusercontent.com/13319538/190522077-84c59eb1-5f53-41fc-9993-01a558f17744.png)
-#### Sketch 2
+
+In this sketch, I kept the same basic idea as the original graph. First, I got rid of the blue background that I found distracting. Then, I changed the bars from yellow to grey. I then cololored last bar blue and the preceding four bars red to symbolize the Biden and Trump presidencies respectively. Next, I changed the title to reflect the key takeaway that I wanted the audience to see from the visualization. Finally, I fixed the y-axis to have uniformity among the tick marks.
+
+### Sketch 2
 ![GDP_Sketch2](https://user-images.githubusercontent.com/13319538/190522104-633b4547-b05b-41d8-9b74-75d1a7566c5a.png)
-#### Sketch 3
+
+For my next sketch, I wanted to see what it would look like if I changed the graph from percentage change bars to a simple line graph that represented the overall GDP over time. This might have a familiar visual language for the audience, however, it tells a completely different story than the original.
+
+### Sketch 3
 ![GDP_Sketch3](https://user-images.githubusercontent.com/13319538/190522113-d7eca78e-ba82-4313-bc06-30c0eca5c17d.png)
+
+In this sketch, I wanted to see what it would be like to include both the line graph and the bar chart on the same graphic with seperate y-axes. The goal here was to keep the same message as the original tweet, but to include some background data on the growth of the GDP as a whole.
 
 # Step 4: Testing the Solution
 
