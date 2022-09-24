@@ -3,6 +3,9 @@
 In today’s world, food access has never been easier. With grocery and food delivery services like instacart, uber eats, and the like, we have access to any type of food at our fingertips. Moreover, grocery stores have been on the rise in Pittsburgh. This may sound like it should have a positive effect on food insecurity, however, it does not. Grocery store delivery services, although convenient, are often too pricey for many people to afford. The new grocery stores in the city are extremely concentrated and are usually located in areas where the median income is higher.
 
 ## Project Structure
+![project_structure1](https://user-images.githubusercontent.com/13319538/192105834-d7aaabf3-d5c5-41f3-806a-ed8cad0aa9e4.png)
+![project_structure2](https://user-images.githubusercontent.com/13319538/192105840-b220eff9-a478-4187-8f9b-14aa4e2f1299.png)
+
 - High-level overview
     - Mention the increased ease of food access
 - Number of Grocery Stores in the United States
@@ -27,28 +30,26 @@ In today’s world, food access has never been easier. With grocery and food del
 
 # Initial Sketches
 ### Sketch 1: Grocery Stores in the United States
+![final_sketch1](https://user-images.githubusercontent.com/13319538/192105816-5289feb2-51c0-4d95-8096-2409228e8ad0.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c94b8f6-bdbb-4468-b69c-3037294f0235/Untitled.png)
 
 ### Sketch 2: Grocery Stores per Capita in Allegheny County
+![final_sketch2](https://user-images.githubusercontent.com/13319538/192105824-c81ccbaf-8d2a-4d34-abd3-9f536c321979.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4fc4dfc6-1545-43e6-9761-4c0d9cda8326/Untitled.png)
 
 ### Sketch 3: Number of Community Gardens and Urban Farms in Pittsburgh
+![final_sketch3](https://user-images.githubusercontent.com/13319538/192105829-89ccd1e3-2b86-4808-9606-05dc16c7fde7.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df22e7ad-2478-4fc1-905f-ce21195c2229/Untitled.png)
 
 ### Sketch 4: Number of Healthy Food Priority Areas in Pittsburgh
+![final_sketch4](https://user-images.githubusercontent.com/13319538/192105831-9001899d-c619-441e-86e8-e3ec88a735a9.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed1419a1-7649-4a73-b074-427bc9dcd1eb/Untitled.png)
 
 ### Map 1: Where the Grocery Stores are in Pittsburgh
-
-[https://gcp-us-east1.app.carto.com/map/cb9a3315-2067-472d-8657-3fa7aa32fab0](https://gcp-us-east1.app.carto.com/map/cb9a3315-2067-472d-8657-3fa7aa32fab0)
+<iframe width="640px" height="360px" src="https://gcp-us-east1.app.carto.com/map/cb9a3315-2067-472d-8657-3fa7aa32fab0"></iframe>
 
 ### Map 2: Healthy Food Priority Areas and Grocery Stores in Pittsburgh
-
-[https://gcp-us-east1.app.carto.com/map/6b4c392b-9615-4ba7-8e7b-9b17df9b96fe](https://gcp-us-east1.app.carto.com/map/6b4c392b-9615-4ba7-8e7b-9b17df9b96fe)
+<iframe width="640px" height="360px" src="https://gcp-us-east1.app.carto.com/map/6b4c392b-9615-4ba7-8e7b-9b17df9b96fe"></iframe>
 
 # The Data
 ### Allegheny County Supermarkets
