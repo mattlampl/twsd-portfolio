@@ -53,25 +53,24 @@ In today’s world, food access has never been easier. With grocery and food del
 ### Map 2: Healthy Food Priority Areas and Grocery Stores in Pittsburgh
 <iframe width="640px" height="360px" src="https://gcp-us-east1.app.carto.com/map/6b4c392b-9615-4ba7-8e7b-9b17df9b96fe"></iframe>
 
+---
 # The Data
-### Allegheny County Supermarkets
+### [Allegheny County Supermarkets](https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores)
 
 This dataset comes from the Western Pennsylvania Regional Data Center (WPRDC). It contains geospatial data about all supermarkets in the county. I will be using this to illustrate how few markets there are in areas of need in the city.
 
-### Pittsburgh Neighborhoods
+### [Pittsburgh Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2)
 
 This dataset comes from the Western Pennsylvania Regional Data Center (WPRDC). It comes in the form of a GeoJSON file and contains boundaries for all of the neighborhoods in the City of Pittsburgh. I plan on doing a spatial join to count the number of grocery stores in each neighborhood.
 
-### Grow Pittsburgh Food Gardens
+### [Grow Pittsburgh Food Gardens](https://www.growpittsburgh.org/garden-and-farm-resources/growers-map/)
 
 There are two datasets that contain information on Grow Pittsburgh food gardens. One is from the WPRDC, which has data from 2017. The other is from the Grow Pittsburgh website, which has data from 2022. I plan on using both of these to present a simple slope graph of the increase in urban gardens in the city as a way to combat food insecurity.
 
-### Healthy Food Priority Areas
+### [Healthy Food Priority Areas](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/)
 
 The Healthy Food Priority Areas (HFPA) dataset will be from the City of Pittsburgh. It contains census tracts and their associated HFPA score.
 
-### USDA Food Environment Atlas
-
-[https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/)
+### [USDA Food Environment Atlas](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/)
 
 This dataset contains the number of grocery stores per capita broken down by county. I plan to use this to display a graph of similarly sized counties, and how Allegheny county stacks up.
