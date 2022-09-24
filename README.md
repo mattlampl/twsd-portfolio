@@ -9,10 +9,11 @@ Before coming to CMU, I completed my undergraduate degree in Information Science
 I love looking at charts. I believe this is the most effective way to communicate complicated data with an audience. I am hoping to learn how to make compelling, yet simple graphics in order to display important data. I am hoping to learn some fundamental design principles as well as how to create infographics, dashboards, and graphics in various software tools like Tableau and Shortform. Upon completion of my Masters degree, I am hoping to work as a data scientist in some policy context. Ideally, I will be able to create effective visuals that can aid in policy decision-making.
 
 # Portfolio
-### [Assignment 2: Visualizing Government Debt](/dataviz2.md)
+#### [Assignment 2: Visualizing Government Debt](/dataviz2.md)
 
-### [Assignmet 3 & 4: Critique by Design](/critique-by-design.md)
+#### [Assignmet 3 & 4: Critique by Design](/critique-by-design.md)
 
-### [Tableau Examples](/tableau-ex.md)
+#### [Tableau Examples](/tableau-ex.md)
 
-### Final Project
+## Final Project
+#### [Part 1](/final-part-1.md)
