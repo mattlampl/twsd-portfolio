@@ -11,24 +11,25 @@ In today’s world, food access has never been easier. With grocery and food del
 - High-level overview
     - Mention the increased ease of food access
 - Number of Grocery Stores in the United States
-    - Present graph of the number of stores in the US changing over time (Sketch 1)
+    - Present graph of the number of stores in the US changing over time (***Sketch 1***)
     - Present graph of food delivery services in the US changing over the same time frame
 - Grocery Store Locations
     - How does Allegheny county stack up against other counties in PA?
-        - Show bar chart of where Allegheny lies in Grocery Stores per Capita (Sketch 2)
-    - Show a map of where the grocery stores are in the city (Map 1)
+        - Show bar chart of where Allegheny lies in Grocery Stores per Capita (***Sketch 2***)
+    - Show a map of where the grocery stores are in the city (***Map 1***)
     - Group the grocery stores by neighborhood to emphasize that only select neighborhoods have access to grocery stores
 - Introduce High Priority Food Areas
     - What are they?
-    - Map showing the HFPAs in Pittsburgh (Map 2)
+    - Map showing the HFPAs in Pittsburgh (***Map 2***)
 - Ongoing Efforts
     - Urban Farms
-        - Grow Pittsburgh has increased the number of community gardens and urban farms from 80 in 2017 to 162 in 2022 (Sketch 3)
-    - Graph of how many HFPA’s there are per year (Sketch 4)
+        - Grow Pittsburgh has increased the number of community gardens and urban farms from 80 in 2017 to 162 in 2022 (***Sketch 3***)
+    - Graph of how many HFPA’s there are per year (***Sketch 4***)
 - Call to Action
     - Support grow pittsburgh, 412 food rescue, etc.
 
 ---
+![image](https://user-images.githubusercontent.com/13319538/192121627-03e12a4c-0158-4f50-9134-2e8cd3830927.png)
 
 # Initial Sketches
 ### Sketch 1: Grocery Stores in the United States
