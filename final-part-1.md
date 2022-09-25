@@ -8,6 +8,16 @@ In today’s world, food access has never been easier. With grocery and food del
 ### Graph and Map Placement in Story
 ![project_structure2](https://user-images.githubusercontent.com/13319538/192105840-b220eff9-a478-4187-8f9b-14aa4e2f1299.png)
 
+Using the story arc above, the story can be distilled down to the following elements:
+
+**Setup:** Grocery stores and grocery delivery services have been on the rise in recent years.
+
+**Conflict:** Even though there are a lot of grocery stroes in Pittsburgh, it is extremely hard for people who live in historically disadvantaged neighborhoods to get access to good food.
+
+**Resolution:** Volunteer or donate to community organizatins like Grow Pittsburgh and 412 Food Rescue.
+
+The full story outline can be found below:
+
 - High-level overview
     - Mention the increased ease of food access
 - Number of Grocery Stores in the United States
@@ -20,17 +30,19 @@ In today’s world, food access has never been easier. With grocery and food del
     - Group the grocery stores by neighborhood to emphasize that only select neighborhoods have access to grocery stores
 - Introduce High Priority Food Areas
     - What are they?
+        - Healthy Food Priority Areas (HFPAs) are areas in the city that are deemed to be an anomolous priority based on several census measures like:
+            - Poverty Levels
+            - Walkability to grocery stores
+            - Obesity rates 
     - Map showing the HFPAs in Pittsburgh (***Map 2***)
 - Ongoing Efforts
     - Urban Farms
         - Grow Pittsburgh has increased the number of community gardens and urban farms from 80 in 2017 to 162 in 2022 (***Sketch 3***)
     - Graph of how many HFPA’s there are per year (***Sketch 4***)
 - Call to Action
-    - Support grow pittsburgh, 412 food rescue, etc.
+    - Volunteer or donate to Grow Pittsburgh, 412 Food Rescue, or the Greater Pittsburgh Community Food Bank!
 
 ---
-![image](https://user-images.githubusercontent.com/13319538/192121627-03e12a4c-0158-4f50-9134-2e8cd3830927.png)
-
 # Initial Sketches
 ### Sketch 1: Grocery Stores in the United States
 ![final_sketch1](https://user-images.githubusercontent.com/13319538/192105816-5289feb2-51c0-4d95-8096-2409228e8ad0.png)
