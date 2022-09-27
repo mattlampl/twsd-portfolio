@@ -27,7 +27,7 @@ Using the story arc above, the story can be distilled down to the following elem
 - Number of Grocery Stores in the United States
     - Present graph of the number of stores in the US changing over time (***Sketch 1***)
     
-    ### Sketch 1: Grocery Stores in the United States
+    **Sketch 1: Grocery Stores in the United States**
     
     ![https://user-images.githubusercontent.com/13319538/192105816-5289feb2-51c0-4d95-8096-2409228e8ad0.png](https://user-images.githubusercontent.com/13319538/192105816-5289feb2-51c0-4d95-8096-2409228e8ad0.png)
     
@@ -36,15 +36,15 @@ Using the story arc above, the story can be distilled down to the following elem
     - How does Allegheny county stack up against other counties in PA?
         - Show bar chart of where Allegheny lies in Grocery Stores per Capita (***Sketch 2***)
         
-        ### Sketch 2: Grocery Stores per Capita in Allegheny County
+        **Sketch 2: Grocery Stores per Capita in Allegheny County**
         
         ![https://user-images.githubusercontent.com/13319538/192105824-c81ccbaf-8d2a-4d34-abd3-9f536c321979.png](https://user-images.githubusercontent.com/13319538/192105824-c81ccbaf-8d2a-4d34-abd3-9f536c321979.png)
         
     - Show a map of where the grocery stores are in the city (***Map 1***)
         
-        ### Map 1: Where the Grocery Stores are in Pittsburgh
-        
-        <iframe width="640px" height="360px" src="[https://gcp-us-east1.app.carto.com/map/cb9a3315-2067-472d-8657-3fa7aa32fab0](https://gcp-us-east1.app.carto.com/map/cb9a3315-2067-472d-8657-3fa7aa32fab0)"></iframe>
+        **Map 1: Where the Grocery Stores are in Pittsburgh**
+
+        <iframe width="640px" height="360px" src="https://clausa.app.carto.com/map/cb9a3315-2067-472d-8657-3fa7aa32fab0"></iframe>
         
     - Group the grocery stores by neighborhood to emphasize that only select neighborhoods have access to grocery stores
 - Introduce High Priority Food Areas
@@ -55,21 +55,21 @@ Using the story arc above, the story can be distilled down to the following elem
             - Obesity rates
     - Map showing the HFPAs in Pittsburgh (***Map 2***)
         
-        ### Map 2: Healthy Food Priority Areas and Grocery Stores in Pittsburgh
+        **Map 2: Healthy Food Priority Areas and Grocery Stores in Pittsburgh**
         
-        <iframe width="640px" height="360px" src="[https://gcp-us-east1.app.carto.com/map/6b4c392b-9615-4ba7-8e7b-9b17df9b96fe](https://gcp-us-east1.app.carto.com/map/6b4c392b-9615-4ba7-8e7b-9b17df9b96fe)"></iframe>
+        <iframe width="640px" height="360px" src="https://clausa.app.carto.com/map/6b4c392b-9615-4ba7-8e7b-9b17df9b96fe"></iframe>
         
 - Ongoing Efforts
     - Urban Farms
         - Grow Pittsburgh has increased the number of community gardens and urban farms from 80 in 2017 to 162 in 2022 (***Sketch 3***)
         
-        ### Sketch 3: Number of Community Gardens and Urban Farms in Pittsburgh
+        **Sketch 3: Number of Community Gardens and Urban Farms in Pittsburgh**
         
         ![https://user-images.githubusercontent.com/13319538/192105829-89ccd1e3-2b86-4808-9606-05dc16c7fde7.png](https://user-images.githubusercontent.com/13319538/192105829-89ccd1e3-2b86-4808-9606-05dc16c7fde7.png)
         
     - Graph of how many HFPA’s there are per year (***Sketch 4***)
     
-    ### Sketch 4: Number of Healthy Food Priority Areas in Pittsburgh
+    **Sketch 4: Number of Healthy Food Priority Areas in Pittsburgh**
     
     ![https://user-images.githubusercontent.com/13319538/192105831-9001899d-c619-441e-86e8-e3ec88a735a9.png](https://user-images.githubusercontent.com/13319538/192105831-9001899d-c619-441e-86e8-e3ec88a735a9.png)
     
