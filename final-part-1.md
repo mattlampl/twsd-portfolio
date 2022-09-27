@@ -100,6 +100,13 @@ The Healthy Food Priority Areas (HFPA) dataset will be from the City of Pittsbur
 
 This dataset contains the number of grocery stores per capita broken down by county. I plan to use this to display a graph of similarly sized counties, and how Allegheny county stacks up.
 
+# Methods and Medium
+To create the visualizations, I will be using Tableau. I find that Tableau gives the most amount of customization for simple charts. I want to keep each chart relatively simple so the audience does not get overwhelmed. The goal here is to have each chart be understandable within a few seconds.
+
+To create the maps, I will be using a web application called Carto. It is similar to ArcGIS, but easily accessible from a web browser. I also want to keep the maps pretty simple so as not to overwhelm the audience with too much information.
+
+Between each stage of the final project, I will be asking for some feedback from peers, and incorporating the feedback into the next stage. Getting user feedback is an extremely important step necessary to understand how the audience is interpreting the visualizations.
+
 # Feedback Session Notes
 
 After hearing some feedback about my initial visualizations, I will have to amend and add a few visualizations. Firstly, I got feedback that there is a disconnect between community gardens and food access. To help bridge this gap, I will be adding in a map of where the community gardens are after displaying where the priority areas are in the city. This will show that community gardens are placed in/around areas of high need. Second, I will be changing the color scheme of the first map to grey out the neighborhoods with no grocery stores instead of making those areas black. Finally, I will be adding some more information to the axes of the chart comparing Allegheny county with other counties.
