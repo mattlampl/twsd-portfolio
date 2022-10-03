@@ -18,7 +18,7 @@ I will be conducting user interviews using the following interview questions:
 
 ### Interview #1: Male, Late 60s
 |Question|Answer|
-|---|-----|
+|---|---|
 |*What did you like about this storyboard?*|Answer|
 |*Is there anything that you did not like?*|Answer|
 |*What did you like about this storyboard?*|Answer|
@@ -28,7 +28,7 @@ I will be conducting user interviews using the following interview questions:
 
 ### Interview #2: Female, Late 20s
 |Question|Answer|
-|---|-----|
+|---|---|
 |*What did you like about this storyboard?*|Answer|
 |*Is there anything that you did not like?*|Answer|
 |*What did you like about this storyboard?*|Answer|
@@ -38,10 +38,19 @@ I will be conducting user interviews using the following interview questions:
 
 ### Interview #3: Male, Mid 30s
 |Question|Answer|
-|---|-----|
+|---|---|
 |*What did you like about this storyboard?*|Answer|
 |*Is there anything that you did not like?*|Answer|
 |*What did you like about this storyboard?*|Answer|
 |*Is there anything that you wish were explained more or had more details?*|Answer|
 |*What is one thing that you learned?*|Answer|
 |*Do you have any suggestions on what might make this better?*|Answer|
+
+| Question | Answer |
+| --- | --- |
+| What did you like about this storyboard? | Answer |
+| Is there anything that you did not like? | Answer |
+| What did you like about this storyboard? | Answer |
+| Is there anything that you wish were explained more or had more details? | Answer |
+| What is one thing that you learned? | Answer |
+| Do you have any suggestions on what might make this better? | Answer |
