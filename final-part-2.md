@@ -8,6 +8,8 @@ The first step in creating my storyboard was creating a moodboard using Canva. T
 # Wireframe
 [See the wireframe preview on Shorthand](https://preview.shorthand.com/tqDIQ4mRXE4CqFao)
 
+I decided to use Shorthand to create my wireframe. It was easy to play around with the layout of each section. I left the placeholder text in the text boxes, but did change the text of each heading. I also found that embedding tableau and carto visualizations did not go as planned on shorthand. I remade all of these visualizations in datawrapper. I really like the way they turned out. They are all quite nice and simplified and I think they will work well with the final story.
+
 # User Research
 I will be conducting user interviews using the following interview questions:
 
@@ -22,7 +24,7 @@ I will be conducting user interviews using the following interview questions:
 
 | Question | Answer |
 | --- | --- |
-| What did you like about this storyboard? | Answer |
+| What did you like about this wireframed story? | Answer |
 | Is there anything that you did not like? | Answer |
 | What did you like about this storyboard? | Answer |
 | Is there anything that you wish were explained more or had more details? | Answer |
@@ -33,7 +35,7 @@ I will be conducting user interviews using the following interview questions:
 
 | Question | Answer |
 | --- | --- |
-| What did you like about this storyboard? | Answer |
+| What did you like about this wireframed story? | Answer |
 | Is there anything that you did not like? | Answer |
 | What did you like about this storyboard? | Answer |
 | Is there anything that you wish were explained more or had more details? | Answer |
@@ -44,7 +46,7 @@ I will be conducting user interviews using the following interview questions:
 
 | Question | Answer |
 | --- | --- |
-| What did you like about this storyboard? | Answer |
+| What did you like about this wireframed story? | Answer |
 | Is there anything that you did not like? | Answer |
 | What did you like about this storyboard? | Answer |
 | Is there anything that you wish were explained more or had more details? | Answer |
