@@ -7,3 +7,11 @@ The first step in creating my storyboard was creating a moodboard using Canva. T
 https://preview.shorthand.com/tqDIQ4mRXE4CqFao
 
 # User Research
+I will be conducting user interviews using the following interview questions:
+
+- *What did you like about this storyboard?
+- *Is there anything that you did not like?
+- *Is there anything that you wish were explained more or had more details?
+- *What is one thing that you learned?
+- *Is there anything that suprised you?
+- *Do you have any suggestions on what might make this better?
