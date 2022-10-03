@@ -26,7 +26,7 @@ I will be conducting user interviews using the following interview questions:
 |*What is one thing that you learned?*|Answer|
 |*Do you have any suggestions on what might make this better?*|Answer|
 
-### Interview #2: Femail, Late 20s
+### Interview #2: Female, Late 20s
 |Question|Answer|
 |---|-----|
 |*What did you like about this storyboard?*|Answer|
