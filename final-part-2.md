@@ -42,4 +42,9 @@ I will be conducting user interviews using the following interview questions:
 | What is one thing that you learned? | I really like the map showing where the grocery stores are. This makes it really clear that certain neighborhoods have strong access to fresh, healthy food, while others (most, really) have low access. I wonder if this will be tied into tract-level access to cars: a neighborhood could not have a grocery store, but if households have high personal vehicle access, then seeming distance is compressed. |
 | Do you have any suggestions on what might make this better? |  If the storymaker wants to incorporate commentary on differential access across groups (e.g., racial or ethnic groups),  then having some type of overlay could help highlight that story. The y-axis for the “Grocery Stores per Capita in every PA County” chart is hard to read – maybe select ~5-10 counties that represent high, medium, and low counts to convey that Pittsburgh is pretty middling, grocery-store wise. Another idea here would be to compare Allegheny County with other “Rust Belt” counties across the country, like Cook County and the county where Cleveland, Detroit, Indianapolis, etc. are located. |
 
+# Feedback Interpretation and Next Steps
+I got some great feedback from both the two user interviews I conducted, as well as the in-class feedback session. I was able to compile some changes that I would like to implement for the final project:
+- Change the county graph to only include a few counties that contain other US cities (i.e. Cook County for Chicago, etc.)
+- Create a map of where grocery stores are in relation to the Healthy Food Priority areas
+- Explain what the yellow dots mean on the grocery store map
 
