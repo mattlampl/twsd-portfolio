@@ -20,18 +20,18 @@ I will be conducting user interviews using the following interview questions:
 - *Is there anything that suprised you?*
 - *Do you have any suggestions on what might make this better?*
 
-### Interview #1: Male, Late 60s
+### Interview #1: Librarian
 
 | Question | Answer |
 | --- | --- |
-| What did you like about this wireframed story? | Answer |
-| Is there anything that you did not like? | Answer |
-| What did you like about this storyboard? | Answer |
-| Is there anything that you wish were explained more or had more details? | Answer |
-| What is one thing that you learned? | Answer |
-| Do you have any suggestions on what might make this better? | Answer |
+| What did you like about this wireframed story? | I liked the flow from national to local and the call to action at the end. The images provided nice backgrounds. |
+| Is there anything that you did not like? | I think that the graph of HFPAs needs to be overlaid with where the grocery stores are. Or the maps need to be side by side se we can compare. |
+| Is there anything that surprised you? | I was surprised that there were so few grocery stores in the city. |
+| Is there anything that you wish were explained more or had more details? | The fact that the yellow dots meant one grocery store in Pittsburgh. I was confused what each dot meant. I also want to know what counts as a grocery store |
+| What is one thing that you learned? | I learned that the number of gardens and urban farms in Pittsburgh has risen substantially in recent years. |
+| Do you have any suggestions on what might make this better? | More detailed explanations of chart and pictures of actual community gardens in Pittsburgh. |
 
-### Interview #2: Female, Late 20s
+### Interview #2: Student
 
 | Question | Answer |
 | --- | --- |
@@ -42,13 +42,4 @@ I will be conducting user interviews using the following interview questions:
 | What is one thing that you learned? | I really like the map showing where the grocery stores are. This makes it really clear that certain neighborhoods have strong access to fresh, healthy food, while others (most, really) have low access. I wonder if this will be tied into tract-level access to cars: a neighborhood could not have a grocery store, but if households have high personal vehicle access, then seeming distance is compressed. |
 | Do you have any suggestions on what might make this better? |  If the storymaker wants to incorporate commentary on differential access across groups (e.g., racial or ethnic groups),  then having some type of overlay could help highlight that story. The y-axis for the “Grocery Stores per Capita in every PA County” chart is hard to read – maybe select ~5-10 counties that represent high, medium, and low counts to convey that Pittsburgh is pretty middling, grocery-store wise. Another idea here would be to compare Allegheny County with other “Rust Belt” counties across the country, like Cook County and the county where Cleveland, Detroit, Indianapolis, etc. are located. |
 
-### Interview #3: Male, Mid 30s
 
-| Question | Answer |
-| --- | --- |
-| What did you like about this wireframed story? | Answer |
-| Is there anything that you did not like? | Answer |
-| What did you like about this storyboard? | Answer |
-| Is there anything that you wish were explained more or had more details? | Answer |
-| What is one thing that you learned? | Answer |
-| Do you have any suggestions on what might make this better? | Answer |
