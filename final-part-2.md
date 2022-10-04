@@ -48,3 +48,4 @@ I got some great feedback from both the two user interviews I conducted, as well
 - Create a map of where grocery stores are in relation to the Healthy Food Priority areas
 - Explain what the yellow dots mean on the grocery store map
 
+Overall, I think my story will come together more when I start adding some text around the graphics. I think a good deal of the confusion that I saw from the user feedback sessions will be solved once there is some context around the maps and graphs. The overall layout of the story felt good and it was nice to be able to tweak where things went using Shorthand. I am happy with the way the story flows. Both interviewees were able to immediately pick up on the flow from country -> state -> local that I utilized. I also think this wireframe does a good job at following the story arc that I laid out in part 1 of the final project.
