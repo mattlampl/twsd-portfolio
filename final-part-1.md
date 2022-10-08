@@ -1,3 +1,5 @@
+# Final Project, Part I
+
 ## Summary
 
 In today’s world, food access has never been easier. With grocery and food delivery services like instacart, uber eats, and the like, we have access to any type of food at our fingertips. Moreover, grocery stores have been on the rise in Pittsburgh. This may sound like it should have a positive effect on food insecurity, however, it does not. Grocery store delivery services, although convenient, are often too pricey for many people to afford. The new grocery stores in the city are extremely concentrated and are usually located in areas where the median income is higher.
