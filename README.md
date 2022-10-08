@@ -18,3 +18,4 @@ I love looking at charts. I believe this is the most effective way to communicat
 ## Final Project
 #### [Part 1](/final-part-1.md)
 #### [Part 2](/final-part-2.md)
+#### [Part 3](/final-part-3.md)
