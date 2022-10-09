@@ -1,4 +1,4 @@
-[Main Page](README.md)
+# Visualizing Government Debt
 
 ## Part 1: Working with web-based visualization tools and data
 ### General Government Debt as % of GDP, 2020
