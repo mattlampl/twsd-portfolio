@@ -13,7 +13,7 @@ I love looking at charts. I believe this is the most effective way to communicat
 
 #### [Assignmet 3 & 4: Critique by Design](/critique-by-design.md)
 
-#### [Tableau Examples](/tableau-ex.md)
+#### [Tableau Examples](examples/tableau-ex.md)
 
 ## Final Project
 #### [Part 1](/final-part-1.md)
