@@ -1,5 +1,3 @@
-# Home
-
 # About Me
 Hello! My name is Matt Lampl. I am currently a second-year MSPPM-DA (Public Policy and Data Analytics) student at the Heinz College at Carnegie Mellon University in Pittsburgh, PA. When I am not looking at or making cool charts, you can find me running and biking around Pittsburgh.
 
